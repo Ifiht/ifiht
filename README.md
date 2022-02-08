@@ -1,7 +1,7 @@
 
 |         |     |
 | :-----: | :-: |
-| [![Ifiht's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifiht&show_icons=true&theme=apprentice&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | ![](https://github.com/ifiht/github-stats/blob/master/generated/languages.svg | height=500) |
+| [![Ifiht's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifiht&show_icons=true&theme=apprentice&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | ![Ifiht's Languages](https://github.com/ifiht/github-stats/blob/master/generated/languages.svg | height=500px) |
 
 <!--
 **Ifiht/ifiht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
