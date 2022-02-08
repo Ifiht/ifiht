@@ -1,7 +1,7 @@
 
 |         |     |
 | :-----: | :-: |
-| [![Ifiht's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifiht&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) | <ul><li align="left">🔭 currently working on cognitive architecture/agents..</li><li align="left">📚 currently learning Prolog...</li><li align="left">👯 looking to collaborate on MTG!</li></ul> |
+| [![Ifiht's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifiht&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) | ![](https://github.com/ifiht/github-stats/blob/master/generated/languages.svg) |
 
 <!--
 **Ifiht/ifiht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
