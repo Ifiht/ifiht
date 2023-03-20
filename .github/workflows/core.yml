@@ -12,7 +12,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.PMETRICS_TOKEN }}
-          user: austinhuang0131
+          user: Ifiht
           use_prebuilt_image: yes
           template: classic
           config_timezone: America/Montreal
