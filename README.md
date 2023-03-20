@@ -1,6 +1,6 @@
 ![metrics](https://github.com/Ifiht/ifiht/blob/main/github-metrics.svg)
 
-README powered by [lowlighter Metrics!](https://github.com/lowlighter/metrics)
+README powered by [lowlighter Metrics](https://github.com/lowlighter/metrics) 📊
 
 <!--
 **Ifiht/ifiht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
