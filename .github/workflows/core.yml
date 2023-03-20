@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.PMETRICS_TOKEN }}
           user: Ifiht
           use_prebuilt_image: yes
-          template: repository
+          template: classic
           config_timezone: America/Toronto
           plugin_lines: yes
           config_padding: 16, 48
