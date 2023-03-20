@@ -1,6 +1,6 @@
-<p align="center">
-  ![metrics](https://github.com/Ifiht/ifiht/blob/main/github-metrics.svg)
-</p>
+<div align="center">
+  <img src="https://github.com/Ifiht/ifiht/blob/main/github-metrics.svg" />
+</div>
 
 README powered by [lowlighter Metrics](https://github.com/lowlighter/metrics) 📊
 
