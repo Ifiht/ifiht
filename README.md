@@ -2,7 +2,13 @@
   <img src="https://github.com/Ifiht/ifiht/blob/main/github-metrics.svg" />
 </div>
 
-README powered by [lowlighter Metrics](https://github.com/lowlighter/metrics) 📊
+<br/><br/>
+<div align="center">  
+    
+README powered by [lowlighter Metrics](https://github.com/lowlighter/metrics) :chart_with_upwards_trend:  
+Best GitHub [emoji picker](https://github-emoji-picker.rickstaa.dev/) :peacock:  
+  
+</div>  
 
 <!--
 **Ifiht/ifiht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
