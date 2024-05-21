@@ -32,11 +32,10 @@ jobs:
           plugin_habits_days: 90        # Keep only events from last 90 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
-          # reactions
-          #plugin_reactions: yes
-          #plugin_reactions_display: absolute
-          #plugin_reactions_ignored: github-actions[bot], dependabot[bot]
-          #plugin_reactions_limit: 200
+          # leetcode
+          plugin_leetcode: yes
+          plugin_leetcode_user: ifiht
+          plugin_leetcode_sections: solved, skills
           # followup
           plugin_followup: yes
           plugin_followup_sections: repositories, user
