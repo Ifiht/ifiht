@@ -35,7 +35,7 @@ jobs:
           # leetcode
           plugin_leetcode: yes
           plugin_leetcode_user: ifiht
-          plugin_leetcode_sections: solved, skills
+          plugin_leetcode_sections: skills
           # followup
           plugin_followup: yes
           plugin_followup_sections: repositories, user
