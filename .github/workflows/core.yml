@@ -17,7 +17,7 @@ jobs:
           template: classic
           config_timezone: America/Toronto
           plugin_lines: yes
-          config_padding: 16, 96        # [X, Y] padding, in pixels
+          config_padding: 16, 128       # [X, Y] padding, in pixels
           # base
           base: header, activity, community, repositories, metadata
           repositories_forks: no
