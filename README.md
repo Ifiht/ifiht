@@ -7,6 +7,7 @@
     
 README powered by [lowlighter Metrics](https://github.com/lowlighter/metrics) :chart_with_upwards_trend:  
 Best GitHub [emoji picker](https://github-emoji-picker.rickstaa.dev/) :peacock:  
+Use [SEMVAR](https://semver.org/) ❕
   
 </div>  
 
