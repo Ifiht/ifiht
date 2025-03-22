@@ -48,5 +48,6 @@ jobs:
           plugin_achievements_limit: 10          # Display only top 6
           # pagespeed
           plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://webdev.evlis.org
           
