@@ -1,6 +1,6 @@
 name: ProfileMetrics
 on:
-  schedule: [{cron: "0 */2 * * *"}]
+  schedule: [{cron: "0 */3 * * *"}]
   workflow_dispatch:
   push: {branches: ["master"]}
 jobs:
