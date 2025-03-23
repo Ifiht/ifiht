@@ -26,8 +26,9 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 10
           plugin_languages_threshold: 0.5%
-          plugin_languages_ignored: glsl, jupyter notebook, swig
+          plugin_languages_ignored: glsl, mcfunction, jupyter notebook, swig
           plugin_languages_details: bytes-size, percentage
+          plugin_languages_skipped: Ifiht/brew, Ifiht/jruby
           # habits
           plugin_habits: yes
           plugin_habits_from: 1000      # Use 1000 events to compute habits
