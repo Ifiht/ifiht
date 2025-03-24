@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="https://github.com/Ifiht/github-stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/Ifiht/github-stats/blob/master/generated/languages.svg" />
+</div>
+
 <div align="center">
   <img src="https://github.com/Ifiht/ifiht/blob/main/github-metrics.svg" />
 </div>
