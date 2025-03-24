@@ -19,7 +19,7 @@ jobs:
           plugin_lines: yes
           config_padding: 16, 148       # [X, Y] padding, in pixels
           # base
-          base: header, activity, community, repositories, metadata
+          base: metadata
           repositories_forks: no
           # languages
           plugin_languages: yes
