@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img src="https://github.com/Ifiht/github-stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/Ifiht/github-stats/blob/master/generated/languages.svg" />
+  <img src="https://github.com/Ifiht/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/Ifiht/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
 
 <div align="center">
