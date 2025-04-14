@@ -4,8 +4,12 @@
   <img src="https://github.com/Ifiht/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
 
+<p></p>
+<p></p>
 <div align="center">
-  <img src="https://github.com/Ifiht/ifiht/blob/main/github-metrics.svg" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ifiht&theme=darkhub" alt="trophy" />
+  </a>
 </div>
 
 <br/><br/>
