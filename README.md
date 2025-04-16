@@ -14,7 +14,7 @@ Hi! I'm an infrastructure, software, and security IT type who enjoys building th
 <p></p>
 <p></p>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy/tree/master?tab=readme-ov-file#about-rank">
     <img src="https://github.com/Ifiht/github-stats/blob/master/generated/trophies.svg#gh-dark-mode-only" alt="trophy" />
   </a>
 </div>
