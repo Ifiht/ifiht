@@ -1,6 +1,6 @@
 # Overview
 Hi! I'm an infrastructure, software, and security IT type who enjoys building things with computers. Feel free to collaborate or open issues on anything you see here. Currently a lot of my work is going into patching Minecraft server code to add features and improve parallel-processing function, and building out my AI agent projects. Some interesting facts about me:
-- Joined Github on October 1st, 2014
+- Joined Github on [October 1st, 2014](https://en.wikipedia.org/wiki/October_1)
 - Longtime member of [Telehack](https://telehack.com/u/ifiht)
 - Server admin of Iðavöllr (public access coming soon)
 
